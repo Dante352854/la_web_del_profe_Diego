@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<presentation guid="CAA959AD-F4F4-4638-9E06-A72E407A3489" version="0" availableOffline="1">
+	<info>
+		<title>Horario 2022</title>
+		<description/>
+	</info>
+	<files index="id7" thumbnail="id27" totalSize="8023146">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/sound1.mp3</file>
+		<file id="id2">data/slide1.js</file>
+		<file id="id3">data/slide1.css</file>
+		<file id="id4">data/thmb2.png</file>
+		<file id="id5">data/slide2.js</file>
+		<file id="id6">data/slide2.css</file>
+		<file id="id7">index.html</file>
+		<file id="id8">data/player.js</file>
+		<file id="id13">data/browsersupport.js</file>
+		<file id="id14">data/apple-touch-icon.png</file>
+		<file id="id15">data/favicon.ico</file>
+		<file id="id16">data/fnt0.woff</file>
+		<file id="id17">data/fnt1.woff</file>
+		<file id="id18">data/fnt2.woff</file>
+		<file id="id19">data/fnt3.woff</file>
+		<file id="id20">data/fnt4.woff</file>
+		<file id="id21">data/fnt5.woff</file>
+		<file id="id22">data/html5-unsupported.html</file>
+		<file id="id23">data/html5.png</file>
+		<file id="id24">data/img0.png</file>
+		<file id="id25">data/img1.png</file>
+		<file id="id26">data/img2.png</file>
+		<file id="id27">data/ismplayer/preview.png</file>
+		<file id="id28">data/ismplayer/play.svg</file>
+		<file id="id29">data/ismplayer/style.css</file>
+		<file id="id30">data/ismplayer/style_mini.css</file>
+		<file id="id31">ismplayer.html</file>
+		<file id="id32">data/ismplayer/app_store2x.png</file>
+		<file id="id33">metainfo.xml</file>
+	</files>
+</presentation>
